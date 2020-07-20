@@ -1,0 +1,9 @@
+/node_modules
+/public/hot
+/public/storage
+/storage/*.key
+/admin/config.php
+config.php
+
+.idea/*
+.idea/workspace.xml
